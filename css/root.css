@@ -1,0 +1,15 @@
+:root {
+  --main-font-family: "Martian Mono";
+  --font-family: "Inter";
+  /* COLORS */
+  --color-dark-neutral: #000d1a;
+  --color-medium-neutral: #334155;
+  --color-light-neutral: #e2e8f0;
+  --color-very-light-neutral: #f8fafc;
+  --color-soft-blue: #9cc9da;
+  --color-dark-neutral: #062630;
+  --color-lighter-neutral: #faf5ef;
+  --color-warm-orange: #ff9a60;
+  --color-pure-white: #ffffff;
+  --color-soft-neutral: #385159;
+}
